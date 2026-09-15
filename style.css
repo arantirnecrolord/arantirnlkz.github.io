@@ -1,0 +1,23 @@
+body {
+  color: rgb(255, 255, 255);
+  background-color: rgb(70, 0, 100);
+  font-family: monospace;
+  font-size: 20px;
+}
+
+a { color: rgb(255, 255, 255); }
+a:hover { color: rgb(0, 255, 0); }
+a:visited { color: rgb(255, 0, 0); }
+
+.content { 
+  width: 1000px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px;
+  background-color: rgb(78, 0, 122);
+  border-style: outset;
+  border-color: rgb(139, 50, 190);
+}
+.homepage { 
+  display: flex;
+}
